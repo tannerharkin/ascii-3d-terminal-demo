@@ -1,0 +1,23 @@
+# Rust/Cargo
+/target/
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Assets
+/assets/
+
+# Executable binaries
+.exe
+
+# Logs
+*.log
